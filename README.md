@@ -1,4 +1,4 @@
-*University HR Management System*
+University HR Management System
 A database-driven web application developed as a university DB course project. The system manages university staff across multiple departments, handling employee records, leave requests, role assignments, and approvals through a role-based access control system.
 Features
 
